@@ -121,6 +121,5 @@ widgetsnbextension==3.5.1
 win-unicode-console==0.5
 wincertstore==0.2
 wrapt==1.12.1
-xlwings==0.23.0
 zict==2.0.0
 zope.event==4.5.0
