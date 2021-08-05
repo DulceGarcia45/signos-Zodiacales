@@ -62,10 +62,7 @@ MarkupPy==1.14
 MarkupSafe==1.1.1
 
 mccabe==0.6.1
-mkl-service==2.3.0
-
 mpmath==1.2.1
-
 multipledispatch==0.6.0
 murmurhash==1.0.5
 mypy-extensions==0.4.3
