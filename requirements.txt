@@ -21,11 +21,6 @@ brotlipy==0.7.0
 catalogue==2.0.4
 certifi==2020.12.5
 comtypes==1.1.9
-conda==4.10.3
-conda-build==3.21.4
-conda-verify==3.4.2
-contextlib2==0.6.0.post1
-
 cycler==0.10.0
 cymem==2.0.5
 
@@ -54,7 +49,7 @@ h5py==2.10.0
 HeapDict==1.0.1
 
 jdcal==1.4.1
-j
+
 json5==0.9.5
 
 jupyter==1.0.0
